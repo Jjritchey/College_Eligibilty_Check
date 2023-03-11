@@ -1,0 +1,93 @@
+Acceptance to College by Justin Ritchey
+
+Applicant #: 1
+School = L GPA = 4.0 Math = 600 Verbal = 650 Alumni = N
+Applying to Liberal Arts
+Accepted to Liberal Arts!
+****************************************
+
+Applicant #: 2
+School = M GPA = 3.9 Math = 610 Verbal = 520 Alumni = N
+Applying to Music
+Accepted to Music!
+****************************************
+
+Applicant #: 3
+School = L GPA = 3.8 Math = 590 Verbal = 600 Alumni = N
+Applying to Liberal Arts
+Rejected - SAT scores are to low
+****************************************
+
+Applicant #: 4
+School = L GPA = 3.0 Math = 600 Verbal = 600 Alumni = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!
+****************************************
+
+Applicant #: 5
+School = L GPA = 3.4 Math = 600 Verbal = 600 Alumni = N
+Applying to Liberal Arts
+Rejected - GPA score is to low
+****************************************
+
+Applicant #: 6
+School = L GPA = 3.0 Math = 500 Verbal = 490 Alumni = Y
+Applying to Liberal Arts
+Rejected - SAT scores are to low
+****************************************
+
+Applicant #: 7
+School = L GPA = 2.9 Math = 500 Verbal = 500 Alumni = Y
+Applying to Liberal Arts
+Rejected - GPA score is to low
+****************************************
+
+Applicant #: 8
+School = M GPA = 3.5 Math = 500 Verbal = 490 Alumni = Y
+Applying to Music
+Rejected - An SAT score is to low
+****************************************
+
+Applicant #: 9
+School = M GPA = 3.9 Math = 490 Verbal = 600 Alumni = Y
+Applying to Music
+Rejected - An SAT score is to low
+****************************************
+
+Applicant #: 10
+School = L GPA = 3.5 Math = 700 Verbal = 500 Alumni = N
+Applying to Liberal Arts
+Accepted to Liberal Arts!
+****************************************
+
+Applicant #: 11
+School = L GPA = 3.1 Math = 600 Verbal = 400 Alumni = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!
+****************************************
+
+Applicant #: 12
+School = L GPA = 3.0 Math = 490 Verbal = 510 Alumni = Y
+Applying to Liberal Arts
+Accepted to Liberal Arts!
+****************************************
+
+Applicant #: 13
+School = L GPA = 4.0 Math = 800 Verbal = 800 Alumni = Y
+Applying to Liberal Arts
+Rejected - Applicant selection period is over
+****************************************
+
+Applicant #: 14
+School = M GPA = 3.2 Math = 500 Verbal = 500 Alumni = N
+Applying to Music
+Accepted to Music!
+****************************************
+
+
+There were 14 applicants in the file
+There were 5 acceptances to the Liberal Arts School
+There were 2 acceptances to the Music School
+
+C:\Users\jritc\Desktop\Intro to C++\Machine Learning 2\Machine Leanring Problem 2\Debug\Machine Leanring Problem 2.exe (process 15308) exited with code 0.
+Press any key to close this window . . .
