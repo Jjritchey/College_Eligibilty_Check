@@ -1,4 +1,4 @@
-//Justin Ritchey completing Machine leanring 2 for Intro to C++ Started on 5/24/2020
+//Justin Ritchey completing Machine leanring 2 for Intro to C++ Started on 5/24/2020 
 //Attempting to create a program that reads a data file and delcares if a person is eligable to be accepted in two seperate colleges
 
 #include <iostream>
